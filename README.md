@@ -3,7 +3,7 @@
 
 HEY! 👋
 
-I'm Adrián, a Web & Mobile Developer. They call me 'The Samurai' over there, but it's a long story!
+I'm Adrián, a Web & Mobile Developer. They call me 'The Samurai' over there, but it's a long story! 🥋
 
 TECH STACK 💻
 
@@ -18,8 +18,8 @@ TECH STACK 💻
 
 ABOUT ME 🎉
 
-- I'm half japanese for my mother 🇯🇵
-- Big fan of Robert de Niro & Al Paccino Movies 🚬
+- I'm half japanese for my mother 🎌
+- Big fan of Robert de Niro & Al Paccino Movies 🚬𝕸𝖆𝖋𝖎𝖆
 - Dragon Ball enjoyer! 🐉㊙
 - Windows enjoyer for now 🪟, and MacOS enjoyer soon. 🍏💻
 - Passionate about football, playing as a LW on Badgers FC in Preferent Division Futsal of Valencian Comunity. ⚽🦝
