@@ -1,5 +1,6 @@
 
-![Banner-Github](https://github.com/adrigomezz/adrigomezz/assets/127105999/86edf604-f8e1-4390-887e-6c8ce3d15e81)
+![Mi banner](https://github.com/user-attachments/assets/66a7a03e-b3e1-4d24-b34c-67e17aaf49f9)
+
 
 HEY! 👋
 
