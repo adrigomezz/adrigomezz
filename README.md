@@ -1,5 +1,5 @@
 
-![Mi banner](https://github.com/user-attachments/assets/66a7a03e-b3e1-4d24-b34c-67e17aaf49f9)
+![Mi banner](https://github.com/user-attachments/assets/968e2bd4-ae02-47db-b323-86a4c2add9d0)
 
 
 HEY! 👋
