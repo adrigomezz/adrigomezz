@@ -4,18 +4,18 @@
 
 HEY! 👋
 
-I'm Adrián, a Web & Mobile Developer. They call me 'The Samurai' over there, but it's a long story! 🥋
+I'm Adrián, a Full-Stack Developer. They call me 'The Samurai' over there, but it's a long story! 🥋
 
 TECH STACK 💻
 
-- JavaScript & TypeScript ♨️📜
+- HTML & CSS </> 🎨
+- JavaScript ｡🇯‌🇸‌
 - React & Next.js 🗲
 - React Native ⚛️
 - Python 🤖
-- Angular 🅰️
-- Docker 🐋
+- SQL 🛢️
 - Postgre 🐘
-- Mongo DB 🍃
+- Docker 🐋
 
 ABOUT ME 🎉
 
