@@ -11,16 +11,15 @@ TECH STACK 💻
 - HTML & CSS </> 🎨
 - JavaScript ｡🇯‌🇸‌
 - React & Next.js 🗲
-- React Native ⚛️
 - Python 🤖
 - SQL 🛢️
-- Postgre 🐘
-- Docker 🐋
+- Node.js 𝐉
+- MongoDB 🌱
+- SpringBoot ⏻
 
 ABOUT ME 🎉
 
 - I'm half japanese for my mother 🎌
 - Big fan of Robert de Niro & Al Paccino Movies 🚬𝕸𝖆𝖋𝖎𝖆
 - Dragon Ball enjoyer! 🐉㊙
-- Windows enjoyer for now 🪟, and MacOS enjoyer soon. 🍏💻
-- Passionate about football, playing as a LW on Badgers FC in Preferent Division Futsal of Valencian Comunity. ⚽🦝
+- Windows enjoyer for now 🪟.
