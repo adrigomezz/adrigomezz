@@ -1,25 +1,25 @@
 
-![Mi banner](https://github.com/user-attachments/assets/7d74b83d-56e5-4b3e-851c-128d372ab3cd)
+<img width="1200" height="600" alt="Banner Linkedin 2" src="https://github.com/user-attachments/assets/4d4a5082-a2dd-4c72-81ff-301b6d99a1ef" />
+
 
 
 HEY! 👋
 
-I'm Adrián, a Full-Stack Developer. They call me 'The Samurai' over there, but it's a long story! 🥋
+I'm Adrián, a Full Stack Developer based in Valencia, Spain. I blend design and code to craft fast, elegant and scalable web applications. With a passion for simplicity and modern tools.
 
 TECH STACK 💻
 
-- HTML & CSS </> 🎨
-- JavaScript ｡🇯‌🇸‌
+- Vue 🎨
 - React & Next.js 🗲
-- Python 🤖
-- SQL 🛢️
+- Tailwind CSS ੭
 - Node.js 𝐉
-- MongoDB 🌱
-- SpringBoot ⏻
+- Spring ⏻
+- PostgreSQL 🛢️
+- Docker 🐋
+- Kubernets 🟩🟨🟧🟥
 
 ABOUT ME 🎉
 
-- I'm half japanese for my mother 🎌
+- I'm half japanese 🎌
 - Big fan of Robert de Niro & Al Paccino Movies 🚬𝕸𝖆𝖋𝖎𝖆
-- Dragon Ball enjoyer! 🐉㊙
-- Windows enjoyer for now 🪟.
+- Anime enjoyer! 🐉㊙
