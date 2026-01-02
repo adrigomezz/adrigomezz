@@ -1,6 +1,5 @@
 
 <img width="1200" height="600" alt="Banner Linkedin 2" src="https://github.com/user-attachments/assets/4d4a5082-a2dd-4c72-81ff-301b6d99a1ef" />
-<br>
 
 HEY! 👋
 
