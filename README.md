@@ -3,10 +3,10 @@
 ## Hi, I'm Adrian!
 
 🧑🏻‍💻 Software Engineer sharing about my journey and learnings in teach<br/>
-👨🏻‍🎓 Studying [Computer Science] at the university of UNED (Universidad Nacional de Educación a Distancia), Spain<br/> 
+👨🏻‍🎓 Studying Computer Science at the university of UNED (Universidad Nacional de Educación a Distancia), Spain<br/> 
 🎨 Making content about Computer Science, tech, and productivity on (https://argo-platform.vercel.app)<br/>
-🌹 #learninginpublic in my [personal portfolio] (adrigomezdev.vercel.app)<br/>
+🌹 #learninginpublic in my [personal portfolio](https://adrigomezdev.vercel.app)<br/>
 💭 Currently learning about data analytics and cybersecurity!<br/>
 
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrigomezz)](https://github.com/anuraghazra/github-readme-stats)
+[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrigomezz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adrigomezz/github-readme-stats)
