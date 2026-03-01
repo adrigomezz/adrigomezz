@@ -1,24 +1,12 @@
 
-<img width="1200" height="600" alt="Banner Linkedin" src="https://github.com/user-attachments/assets/a3fb2f11-d397-461b-b1f5-7d589d940eb8" />
+
+## Hi, I'm Adrian!
+
+🧑🏻‍💻 Software Engineer sharing about my journey and learnings in teach<br/>
+👨🏻‍🎓 Studying [Computer Science] at the university of UNED (Universidad Nacional de Educación a Distancia), Spain<br/> 
+🎨 Making content about Computer Science, tech, and productivity on (https://argo-platform.vercel.app)<br/>
+🌹 #learninginpublic in my [personal portfolio] (adrigomezdev.vercel.app)<br/>
+💭 Currently learning about data analytics and cybersecurity!<br/>
 
 
-HEY! 👋
-
-I'm Adrián, a Full Stack Developer based in Valencia, Spain. I blend design and code to craft fast, elegant and scalable web applications. With a passion for simplicity and modern tools.
-
-TECH STACK 💻
-
-- Vue 🎨
-- React & Next.js 🗲
-- Tailwind CSS ੭
-- Node.js 𝐉
-- Spring ⏻
-- PostgreSQL 🛢️
-- Docker 🐋
-- Kubernets 🟩🟨🟧🟥
-
-ABOUT ME 🎉
-
-- I'm half japanese 🎌
-- Big fan of Robert de Niro & Al Paccino Movies 🚬𝕸𝖆𝖋𝖎𝖆
-- Anime enjoyer! 🐉㊙
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adrigomezz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
