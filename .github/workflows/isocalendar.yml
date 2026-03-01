@@ -1,0 +1,23 @@
+name: Isometric Calendar
+
+on:
+  # Actualiza el calendario automáticamente cada 24 horas a medianoche
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutar la acción manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  # Actualiza el calendario cuando haces un push al README
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necesario para que la acción pueda guardar la imagen
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Cambia a "half-year" si se ve muy grande
