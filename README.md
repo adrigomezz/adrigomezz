@@ -9,4 +9,4 @@
 💭 Currently learning about data analytics and cybersecurity!<br/>
 
 
-[![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrigomezz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/adrigomezz/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrigomezz)](https://github.com/adrigomezz/github-readme-stats)
